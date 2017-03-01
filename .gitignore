@@ -1,0 +1,13 @@
+/Debug/
+/Release/
+/log/
+/input/
+/Clustering/
+/DDCRF/
+/LogLinear/
+/output/
+/output2/
+/Parsing/
+/Scorer/
+/resources/
+*.txt

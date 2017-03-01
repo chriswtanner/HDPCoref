@@ -1,0 +1,12 @@
+I. Require installing gsl library
+
+II. Directory description:
+
+	1) input: contain preprocessed ECB+ data and a pre-trained pairwise classification model
+	
+	2) output: contain coreference predictions
+
+	3) resources: contain resources used for generating features for estimating pairwise distances
+
+III. Use the code:
+	./Release/HDPCoref Config
